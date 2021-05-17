@@ -1,1 +1,1 @@
-# team-tour-scraper
+# Team Tournament Signups Scraper
